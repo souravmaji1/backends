@@ -23,7 +23,7 @@
     "eslint-config-next": "13.4.9",
     "ethers": "^5",
     "gsap": "^3.12.2",
-    "next": "13.4.9",
+    "next": "^14.0.4",
     "qrcode.react": "^3.1.0",
     "react": "18.2.0",
     "react-18-image-lightbox": "^5.1.4",
